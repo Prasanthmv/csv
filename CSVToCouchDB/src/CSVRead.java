@@ -8,7 +8,7 @@ import org.json.JSONArray;
 
 import au.com.bytecode.opencsv.CSVReader;
 
-public class TestSplit {
+public class CSVRead {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) throws IOException{
