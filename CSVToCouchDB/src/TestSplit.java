@@ -1,7 +1,5 @@
-//import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
-//import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -54,11 +52,6 @@ public class TestSplit {
  			InsertionToCouch m=new InsertionToCouch();
  		  	m.insertCouch(final_onj.toString(),csvFilename);
    		 }
-	 	
-	 	
-	 	 
-	 	
-	  	
 	}
 
 }
